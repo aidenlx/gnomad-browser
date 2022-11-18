@@ -1,3 +1,7 @@
+dataset-metadata/**/*.d.ts
+dataset-metadata/*.js
+**/.rush/temp/
+
 # Dependencies
 node_modules
 
