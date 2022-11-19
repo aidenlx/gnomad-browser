@@ -1,6 +1,9 @@
 {
   "name": "@gnomad/dataset-metadata",
   "version": "1.0.0",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "files": ["**/*.js", "**/*.d.ts"],
   "scripts": {
     "build": "tsc"
   },
